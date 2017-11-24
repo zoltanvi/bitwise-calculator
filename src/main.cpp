@@ -1,3 +1,6 @@
+/*
+ * 2016.10.05.
+ */
 #include <stdio.h>
 #include <iostream>
 #include <stdlib.h>
